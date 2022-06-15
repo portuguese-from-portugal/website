@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://www.jameslawler.com/sitemap.xml
+Sitemap: https://portuguese-from-portugal.github.io/website/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
 Disallow: /email/
